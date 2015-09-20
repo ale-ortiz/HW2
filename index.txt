@@ -2,6 +2,6 @@
 <html> 
                           <head><title> Git Test Page </title></head> 
   <body> 
-  <a href="resume.html">Resume</a>
+  Hello world! 
   </body> 
   </html>
